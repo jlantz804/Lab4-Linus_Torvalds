@@ -10,4 +10,8 @@
     
     <local:HomePage Title="Home" />
     <local:PageC Title="PageC" />
+    <local:PageB Title="PageB" />
+    <local:PageA Title="PageA" />
+
+
 </TabbedPage>

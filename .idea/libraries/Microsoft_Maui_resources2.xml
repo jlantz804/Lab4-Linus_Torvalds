@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Microsoft.Maui.resources2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/Debug/net10.0-ios/iossimulator-arm64/Microsoft.Maui.resources.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Microsoft.Maui.resources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/Debug/net10.0-maccatalyst/maccatalyst-arm64/Microsoft.Maui.resources.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

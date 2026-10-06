@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Lab4_LT;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace Lab4_LT;
 
@@ -11,6 +12,6 @@ public partial class App : Application
 
 	protected override Window CreateWindow(IActivationState? activationState)
 	{
-		return new Window(new AppShell());
+		return new Window(new MainTabbedPage());
 	}
 }

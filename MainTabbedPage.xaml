@@ -7,7 +7,7 @@
     xmlns:android="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.AndroidSpecific;assembly=Microsoft.Maui.Controls"
     x:Class="Lab4_LT.MainTabbedPage"
     android:TabbedPage.ToolbarPlacement="Bottom">
-
+    
     <local:HomePage Title="Home" />
-
+    <local:PageC Title="PageC" />
 </TabbedPage>
